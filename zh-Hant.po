@@ -1,0 +1,151 @@
+#. 軟體名稱:ECigStats
+#. 日期:2015-08-27
+#. 版本：1.0
+#. 作者：銅豆
+#. 有任何中文漢化問題可與銅豆取得聯繫,感謝你使用此中文補丁.
+
+#. generic
+msgid  "&OK"
+msgstr "確定"
+
+msgid  "&Cancel"
+msgstr "取消"
+
+#. main form
+msgid  "Device:"
+msgstr "設備:"
+
+msgid  "&Options"
+msgstr "選項"
+
+msgid  "&Link to Account"
+msgstr "帳戶鏈接"
+
+msgid  "Un&link"
+msgstr "不鏈接"
+
+msgid  "&Reset Statistics"
+msgstr "重置統計"
+
+#. statistics
+msgid  "Since Reset"
+msgstr "從重置起算"
+
+msgid  "Device Lifetime"
+msgstr "設備壽命"
+
+msgid  "Last Puff"
+msgstr "最後一口"
+
+msgid  "Puffs"
+msgstr "口數"
+
+msgid  "Temp-Protected"
+msgstr "溫度保護"
+
+msgid  "Energy"
+msgstr "電量"
+
+msgid  "Power"
+msgstr "功率"
+
+msgid  "Temperature"
+msgstr "溫度"
+
+msgid  "Time"
+msgstr "時間"
+
+msgid  "Mean"
+msgstr "平均"
+
+msgid  "Std. Dev."
+msgstr "標準誤差"
+
+msgid  "Total"
+msgstr "總數"
+
+msgid  "Information"
+msgstr "信息"
+
+msgid  "Version"
+msgstr "版本"
+
+msgid  "Reset Count"
+msgstr "重置次數"
+
+#. status messages
+msgid  "Unknown error."
+msgstr "未知的錯誤."
+
+msgid  "Unknown e-mail address."
+msgstr "未知的電子郵件地址."
+
+msgid  "Your e-mail address has not been verified. Please check your e-mail."
+msgstr "你的電子郵件地址未驗證.請檢查你的電子郵件."
+
+msgid  "Incorrect password."
+msgstr "密碼錯誤."
+
+msgid  "Getting {0} information..."
+msgstr "正在獲取{0}信息..."
+
+msgid  "Waiting for login information..."
+msgstr "正在等待登錄信息..."
+
+msgid  "Login canceled."
+msgstr "註銷登錄."
+
+msgid  "Validating {0} serial..."
+msgstr "正在驗證{0}序號..."
+
+msgid  "{0} is in use by another program."
+msgstr "{0}正在被另一程序使用中."
+
+msgid  "{0} statistics have not changed."
+msgstr "{0} 統計數據並沒有改變."
+
+msgid  "Synchronizing..."
+msgstr "正在同步處理..."
+
+msgid  "Serial revalidation failed."
+msgstr "序號驗證失敗."
+
+msgid  "Serial needs to be validated."
+msgstr "需要進行序號驗證."
+
+msgid  "Synchronized."
+msgstr "同步完成."
+
+#. Login form
+msgid  "Login"
+msgstr "登錄"
+
+msgid  "E-mail:"
+msgstr "電子郵件:"
+
+msgid  "Password:"
+msgstr "密碼:"
+
+msgid  "My Account"
+msgstr "我的帳號"
+
+#. Options form
+msgid  "Options"
+msgstr "選項"
+
+msgid  "Start with Windows"
+msgstr "開機即啟動"
+
+msgid  "Sync statistics automatically"
+msgstr "自動同步數據"
+
+msgid  "Version {0}"
+msgstr "版本 {0}"
+
+#. added in 2015-08-27 By SamMao
+#. Reset Statistics
+msgid  "Reset Statistics"
+msgstr "重置統計"
+
+msgid  "Statistics reset."
+msgstr "統計數據重置."

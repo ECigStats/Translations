@@ -1,0 +1,147 @@
+#. Copy this file to a file with your ISO language name, for example, zh-Hans.po or zh-Hant.po or it-IT.po or nb.po or en-GB.po
+#. Then, replace msgstr "___" with the translation in your own language.
+
+#. generic
+msgid  "&OK"
+msgstr "&OK"
+
+msgid  "&Cancel"
+msgstr "&Cancel"
+
+#. main form
+msgid  "Device:"
+msgstr "Device:"
+
+msgid  "&Options"
+msgstr "&Options"
+
+msgid  "&Link to Account"
+msgstr "&Link to Account"
+
+msgid  "Un&link"
+msgstr "Un&link"
+
+msgid  "&Reset Statistics"
+msgstr "&Reset Statistics"
+
+#. Reset Statistics
+msgid  "Reset Statistics"
+msgstr "Reset Statistics"
+
+msgid  "Statistics reset."
+msgstr "Statistics reset."
+
+#. statistics
+msgid  "Since Reset"
+msgstr "Since Reset"
+
+msgid  "Device Lifetime"
+msgstr "Device Lifetime"
+
+msgid  "Last Puff"
+msgstr "Last Puff"
+
+msgid  "Puffs"
+msgstr "Puffs"
+
+msgid  "Temp-Protected"
+msgstr "Temp-Protected"
+
+msgid  "Energy"
+msgstr "Energy"
+
+msgid  "Power"
+msgstr "Power"
+
+msgid  "Temperature"
+msgstr "Temperature"
+
+msgid  "Time"
+msgstr "Time"
+
+msgid  "Mean"
+msgstr "Mean"
+
+msgid  "Std. Dev."
+msgstr "Std. Dev."
+
+msgid  "Total"
+msgstr "Total"
+
+msgid  "Information"
+msgstr "Information"
+
+msgid  "Version"
+msgstr "Version"
+
+msgid  "Reset Count"
+msgstr "Reset Count"
+
+#. status messages
+msgid  "Unknown error."
+msgstr "Unknown error."
+
+msgid  "Unknown e-mail address."
+msgstr "Unknown e-mail address."
+
+msgid  "Your e-mail address has not been verified. Please check your e-mail."
+msgstr "Your e-mail address has not been verified. Please check your e-mail."
+
+msgid  "Incorrect password."
+msgstr "Incorrect password."
+
+msgid  "Getting {0} information..."
+msgstr "Getting {0} information..."
+
+msgid  "Waiting for login information..."
+msgstr "Waiting for login information..."
+
+msgid  "Login canceled."
+msgstr "Login canceled."
+
+msgid  "Validating {0} serial..."
+msgstr "Validating {0} serial..."
+
+msgid  "{0} is in use by another program."
+msgstr "{0} is in use by another program."
+
+msgid  "{0} statistics have not changed."
+msgstr "{0} statistics have not changed."
+
+msgid  "Synchronizing..."
+msgstr "Synchronizing..."
+
+msgid  "Serial revalidation failed."
+msgstr "Serial revalidation failed."
+
+msgid  "Serial needs to be validated."
+msgstr "Serial needs to be validated."
+
+msgid  "Synchronized."
+msgstr "Synchronized."
+
+#. Login form
+msgid  "Login"
+msgstr "Login"
+
+msgid  "E-mail:"
+msgstr "E-mail:"
+
+msgid  "Password:"
+msgstr "Password:"
+
+msgid  "My Account"
+msgstr "My Account"
+
+#. Options form
+msgid  "Options"
+msgstr "Options"
+
+msgid  "Start with Windows"
+msgstr "Start with Windows"
+
+msgid  "Sync statistics automatically"
+msgstr "Sync statistics automatically"
+
+msgid  "Version {0}"
+msgstr "Version {0}"
