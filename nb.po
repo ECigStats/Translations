@@ -1,0 +1,147 @@
+#. Copy this file to a file with your ISO language name, for example, zh-Hans.po or zh-Hant.po or it-IT.po or nb.po or en-GB.po
+#. Then, replace msgstr "___" with the translation in your own language.
+
+#. generic
+msgid  "&OK"
+msgstr "&OK"
+
+msgid  "&Cancel"
+msgstr "A&vbryt"
+
+#. main form
+msgid  "Device:"
+msgstr "Enhet:"
+
+msgid  "&Options"
+msgstr "&Alternativer"
+
+msgid  "&Link to Account"
+msgstr "Kob&le til konto"
+
+msgid  "Un&link"
+msgstr "Kob&le fra"
+
+msgid  "&Reset Statistics"
+msgstr "&Nullstill statistikk"
+
+#. Reset Statistics
+msgid  "Reset Statistics"
+msgstr "Nullstill statistikk"
+
+msgid  "Statistics reset."
+msgstr "Statistikk nullstilt."
+
+#. statistics
+msgid  "Since Reset"
+msgstr "Siden nullstilling"
+
+msgid  "Device Lifetime"
+msgstr "Enhetens levetid"
+
+msgid  "Last Puff"
+msgstr "Siste trekk"
+
+msgid  "Puffs"
+msgstr "Trekk"
+
+msgid  "Temp-Protected"
+msgstr "Temp-beskyttet"
+
+msgid  "Energy"
+msgstr "Energi"
+
+msgid  "Power"
+msgstr "Effekt"
+
+msgid  "Temperature"
+msgstr "Temperatur"
+
+msgid  "Time"
+msgstr "Tid"
+
+msgid  "Mean"
+msgstr "Middel"
+
+msgid  "Std. Dev."
+msgstr "Std. avv."
+
+msgid  "Total"
+msgstr "Total"
+
+msgid  "Information"
+msgstr "Informasjon"
+
+msgid  "Version"
+msgstr "Versjon"
+
+msgid  "Reset Count"
+msgstr "Antall nullstillinger"
+
+#. status messages
+msgid  "Unknown error."
+msgstr "Ukjent feil."
+
+msgid  "Unknown e-mail address."
+msgstr "Ukjent epost-adresse."
+
+msgid  "Your e-mail address has not been verified. Please check your e-mail."
+msgstr "E-posten din er ikke bekreftet. Vennligst sjekk e-posten din."
+
+msgid  "Incorrect password."
+msgstr "Feil passord."
+
+msgid  "Getting {0} information..."
+msgstr "Henter {0} informasjon..."
+
+msgid  "Waiting for login information..."
+msgstr "Venter på innloggingsinformasjon..."
+
+msgid  "Login canceled."
+msgstr "Innlogging avbrutt."
+
+msgid  "Validating {0} serial..."
+msgstr "Bekrefter {0} serienummer..."
+
+msgid  "{0} is in use by another program."
+msgstr "{0} er i bruk av et annet program."
+
+msgid  "{0} statistics have not changed."
+msgstr "{0} statistikk er ikke endret."
+
+msgid  "Synchronizing..."
+msgstr "Synkroniserer..."
+
+msgid  "Serial revalidation failed."
+msgstr "Serienummer-forlengelse feilet."
+
+msgid  "Serial needs to be validated."
+msgstr "Serienummer må forlenges."
+
+msgid  "Synchronized."
+msgstr "Synkronisert."
+
+#. Login form
+msgid  "Login"
+msgstr "Logg inn"
+
+msgid  "E-mail:"
+msgstr "E-post:"
+
+msgid  "Password:"
+msgstr "Passord:"
+
+msgid  "My Account"
+msgstr "Min konto"
+
+#. Options form
+msgid  "Options"
+msgstr "Alternativer"
+
+msgid  "Start with Windows"
+msgstr "Start med Windows"
+
+msgid  "Sync statistics automatically"
+msgstr "Synk statistikk automatisk"
+
+msgid  "Version {0}"
+msgstr "Versjon {0}"
