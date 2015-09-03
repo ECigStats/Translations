@@ -8,6 +8,13 @@ msgstr "&OK"
 msgid  "&Cancel"
 msgstr "&Cancel"
 
+#. system tray
+msgid  "&Open"
+msgstr "&Open"
+
+msgid  "E&xit"
+msgstr "E&xit"
+
 #. main form
 msgid  "Device:"
 msgstr "Device:"
