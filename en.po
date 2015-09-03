@@ -52,7 +52,7 @@ msgid  "Puffs"
 msgstr "Puffs"
 
 msgid  "Temp-Protected"
-msgstr "Temp-Protected"
+msgstr "Temperature-Protected"
 
 msgid  "Energy"
 msgstr "Energy"
