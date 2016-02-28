@@ -1,0 +1,162 @@
+﻿#. Copy this file to a file with your ISO language name, for example, zh-Hans.po or zh-Hant.po or it-IT.po or nb.po or en-GB.po
+#. Then, replace msgstr "___" with the translation in your own language.
+
+#. generic
+msgid  "&OK"
+msgstr "&OK"
+
+msgid  "&Cancel"
+msgstr "&Abbruch"
+
+#. system tray
+msgid  "&Open"
+msgstr "&Öffnen"
+
+msgid  "E&xit"
+msgstr "Ausgang"
+
+#. main form
+msgid  "Device:"
+msgstr "Gerät:"
+
+msgid  "&Options"
+msgstr "&Optionen"
+
+msgid  "&Link to Account"
+msgstr "&Link zum Account"
+
+msgid  "Un&link"
+msgstr "Link aufheben"
+
+msgid  "&Reset Statistics"
+msgstr "&Statistik zurücksetzen"
+
+#. Reset Statistics
+msgid  "Reset Statistics"
+msgstr "Setze Statistik zurück"
+
+msgid  "Statistics reset."
+msgstr "Statistik zurück gesetzt."
+
+#. statistics
+msgid  "Since Reset"
+msgstr "Seit zurück Setzung"
+
+msgid  "Device Lifetime"
+msgstr "Laufzeit vom Gerät"
+
+msgid  "Last Puff"
+msgstr "Letzter Zug"
+
+msgid  "Puffs"
+msgstr "Züge"
+
+msgid  "Temp-Protected"
+msgstr "Temperatur Geschützt"
+
+msgid  "Energy"
+msgstr "Energie"
+
+msgid  "Power"
+msgstr "Power"
+
+msgid  "Temperature"
+msgstr "Temperatur"
+
+msgid  "Time"
+msgstr "Zeit"
+
+msgid  "Mean"
+msgstr "Durchschnitt"
+
+msgid  "Std. Dev."
+msgstr "Standardabweichung"
+
+msgid  "Total"
+msgstr "Insgesamt"
+
+msgid  "Information"
+msgstr "Information"
+
+msgid  "Version"
+msgstr "Version"
+
+msgid  "Reset Count"
+msgstr "Anzahl zurück Setzungen"
+
+#. status messages
+msgid  "Unknown error."
+msgstr "Unbekannter Fehler."
+
+msgid  "Unknown e-mail address."
+msgstr "Unbekannte E-mail Adresse."
+
+msgid  "Your e-mail address has not been verified. Please check your e-mail."
+msgstr "Deine E-Mail wurde nicht verifiziert.Bitte überprüfe dein E-mail Postfach."
+
+msgid  "Incorrect password."
+msgstr "Falsches Passwort."
+
+msgid  "Getting {0} information..."
+msgstr "Beziehe  {0} informationen..."
+
+msgid  "Waiting for login information..."
+msgstr "Warte auf einlog Informationen..."
+
+msgid  "Login canceled."
+msgstr "Login abgebrochen."
+
+msgid  "Validating {0} serial..."
+msgstr "Überprüfe {0} Seriennummer..."
+
+msgid  "{0} is in use by another program."
+msgstr "{0} wird in einem anderen Program genutzt."
+
+msgid  "{0} statistics have not changed."
+msgstr "{0} Statistik wurde nicht verändert."
+
+msgid  "Synchronizing..."
+msgstr "Synchronisiere..."
+
+msgid  "Serial revalidation failed."
+msgstr "Seriennummer Revalidierung fehlgeschlagen."
+
+
+msgid  "Serial needs to be validated."
+msgstr "Seriennummer wird benötigt zum Validieren."
+
+msgid  "Synchronized."
+msgstr "Synchronisiert."
+
+#. Login form
+msgid  "Login"
+msgstr "Einloggen"
+
+msgid  "E-mail:"
+msgstr "E-mail:"
+
+msgid  "Password:"
+msgstr "Passwort:"
+
+msgid  "My Account"
+msgstr "Mein Account"
+
+#. Options form
+msgid  "Options"
+msgstr "Optionen"
+
+msgid  "Start with Windows"
+msgstr "Starte mit Windows"
+
+msgid  "Sync statistics automatically"
+msgstr "Syncronisiere Statistik automatisch"
+
+msgid  "Version {0}"
+msgstr "Version {0}"
+
+
+
+
+
+
+
